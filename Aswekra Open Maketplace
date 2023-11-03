@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aswekra Open Marketplace</title>
+    <style>
+        body {
+            background-color: lavender;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-family: 'cursive', sans-serif;
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+
+        nav {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h1>Aswekra Open Marketplace</h1>
+        <p>The Silk Road that follows the law of the land, a free marketplace where you can transact with cryptocurrency. Aswekra Open Marketplace is a place where you can explore a world of opportunities, buy and sell freely, and embrace the future of commerce.</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
